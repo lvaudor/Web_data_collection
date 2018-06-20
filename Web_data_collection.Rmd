@@ -1,0 +1,21 @@
+---
+title: "Web data collection and data wrangling"
+author: "F.P., S.R., L.V."
+date: "20 juin 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# APIs
+
+Example: Twitter data extracted through an API client (package `rtweet`)
+
+# Web scraping
+
+Example: ads from Leboncoin?
+
+
+# Data-wrangling
